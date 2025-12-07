@@ -29,8 +29,6 @@ O propósito central deste experimento é demonstrar, de forma reprodutível:
 
 As análises incluem curvas de *loss*, acurácia, evolução do ε, matrizes de confusão e gráficos de *trade-off*.
 
----
-
 ## 📂 **Estrutura do Repositório**
 ```
 avalia_priv_acc_ml-dp_dp-sgd/
@@ -38,8 +36,6 @@ avalia_priv_acc_ml-dp_dp-sgd/
 ├── README.md
 ├── avalia_priv_acc_ml-dp_dp-sgd.ipynb   # Notebook principal
 ```
-
----
 
 ## **🧪 Descrição do Experimento**
 
@@ -83,8 +79,6 @@ O notebook produz:
 - Gráfico σ × ε  
 - Gráficos comparativos finais (barras)
 
----
-
 ## **📊 Resultados Esperados**
 
 O treinamento DP-SGD demonstra empiricamente:
@@ -95,8 +89,6 @@ O treinamento DP-SGD demonstra empiricamente:
 
 Os resultados completos podem ser visualizados no notebook.
 
----
-
 ## **▶️ Como Executar o Notebook**
 
 1. Abra o link do Google Colab.  
@@ -106,8 +98,6 @@ Os resultados completos podem ser visualizados no notebook.
    ```bash
    pip install opacus torch torchvision seaborn scikit-learn
 
----
-
 ## 🔒 **Sobre Privacidade Diferencial e DP-SGD**
 O método DP-SGD, proposto inicialmente por **Abadi et al. (2016)**, aplica:
 * **Clipping dos gradientes**
@@ -115,13 +105,9 @@ O método DP-SGD, proposto inicialmente por **Abadi et al. (2016)**, aplica:
 * **Rastreamento do ε** ao longo do treinamento
 Este repositório demonstra a implementação prática e sua análise experimental.
 
----
-
 ## 📜 **Licença Recomendada**
 A exigência é que **os autores sejam sempre mencionados.**
 A licença que melhor atende esse requisito é:
-
----
 
 ## 👉 **Licença BSD 3-Clause**
 Ela permite uso, modificação e redistribuição, desde que **o aviso de copyright seja mantido** — cumprindo exatamente sua exigência.
@@ -143,8 +129,6 @@ _3. Neither the name of the authors nor the names of its contributors may be use
    _to endorse or promote products derived from this software without specific_
    _prior written permission._
 
----
-
 ## 📞 **Contato dos Autores**
 
 **Gustavo Gobi Martinelli**
@@ -154,8 +138,6 @@ Email: [gustavomartinelli@gmail.com](gustavomartinelli@gmail.com)
 **Prof. Rodolfo da Silva Villaça**
 
 Email: [rodolfo.villaca@inf.ufes.br](rodolfo.villaca@inf.ufes.br)
-
----
 
 ## 📝 **Observação Final**
 
