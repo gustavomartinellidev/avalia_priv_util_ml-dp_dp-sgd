@@ -14,8 +14,6 @@ O notebook completo está disponível neste repositório no arquivo **`avalia_pr
 
 ## 👉 **Link do Colab => [avalia_priv_util_ml-dp_dp-sgd.ipynb](https://colab.research.google.com/drive/1NwFBL9jUxME8EfLso901TJIOXqBykD9P?usp=sharing)**
 
----
-
 ## **📌 Objetivo do Projeto**
 
 O propósito central deste experimento é demonstrar, de forma reprodutível:
