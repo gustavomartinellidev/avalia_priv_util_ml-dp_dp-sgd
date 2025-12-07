@@ -114,20 +114,32 @@ Ela permite uso, modificação e redistribuição, desde que **o aviso de copyri
 
 **_BSD 3-Clause License_**
 
-_Copyright (c) 2025, Gustavo Gobi Martinelli & Rodolfo da Silva Villaça_
-_All rights reserved._
+_Copyright (c) 2025, Gustavo Martinelli & Rodolfo da Silva Villaça_
 
 _Redistribution and use in source and binary forms, with or without_
 _modification, are permitted provided that the following conditions are met:_
 
 _1. Redistributions of source code must retain the above copyright notice, this_
    _list of conditions and the following disclaimer._
-_2. Redistributions in binary form must reproduce the above copyright notice,_
+
+_2. _Redistributions in binary form must reproduce the above copyright notice,_
    _this list of conditions and the following disclaimer in the documentation_
    _and/or other materials provided with the distribution._
-_3. Neither the name of the authors nor the names of its contributors may be used_
-   _to endorse or promote products derived from this software without specific_
-   _prior written permission._
+
+_3. Neither the name of the copyright holder nor the names of its_
+   _contributors may be used to endorse or promote products derived from_
+   _this software without specific prior written permission._
+
+_THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"_
+_AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE_
+_IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE_
+_DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE_
+_FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL_
+_DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR_
+_SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER_
+_CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,_
+_OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE_
+_OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE._
 
 ## 📞 **Contato dos Autores**
 
