@@ -12,7 +12,7 @@ O estudo investiga empiricamente o *trade-off* entre **privacidade diferencial**
 
 O notebook completo está disponível neste repositório no arquivo **`avalia_priv_acc_ml-dp_dp-sgd.ipynb`**, bem como no Google Colab por meio do link abaixo (somente leitura):
 
-👉 **[Link do Colab ([avalia_priv_util_ml-dp_dp-sgd.ipynb](https://colab.research.google.com/drive/1NwFBL9jUxME8EfLso901TJIOXqBykD9P?usp=sharing)**
+👉 **[Link do Colab](avalia_priv_util_ml-dp_dp-sgd.ipynb](https://colab.research.google.com/drive/1NwFBL9jUxME8EfLso901TJIOXqBykD9P?usp=sharing)**
 
 ---
 
