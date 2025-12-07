@@ -12,7 +12,7 @@ O estudo investiga empiricamente o *trade-off* entre **privacidade diferencial**
 
 O notebook completo está disponível neste repositório no arquivo **`avalia_priv_acc_ml-dp_dp-sgd.ipynb`**, bem como no Google Colab por meio do link abaixo (somente leitura):
 
-👉 **Link do Colab => [avalia_priv_util_ml-dp_dp-sgd.ipynb](https://colab.research.google.com/drive/1NwFBL9jUxME8EfLso901TJIOXqBykD9P?usp=sharing)**
+## 👉 **Link do Colab => [avalia_priv_util_ml-dp_dp-sgd.ipynb](https://colab.research.google.com/drive/1NwFBL9jUxME8EfLso901TJIOXqBykD9P?usp=sharing)**
 
 ---
 
@@ -33,7 +33,7 @@ As análises incluem curvas de *loss*, acurácia, evolução do ε, matrizes de 
 
 ---
 
-📂 **Estrutura do Repositório**
+## 📂 **Estrutura do Repositório**
 ```
 avalia_priv_acc_ml-dp_dp-sgd/
 │
@@ -110,7 +110,7 @@ Os resultados completos podem ser visualizados no notebook.
 
 ---
 
-🔒 **Sobre Privacidade Diferencial e DP-SGD**
+## 🔒 **Sobre Privacidade Diferencial e DP-SGD**
 O método DP-SGD, proposto inicialmente por **Abadi et al. (2016)**, aplica:
 * **Clipping dos gradientes**
 * **Ruído Gaussiano** proporcional ao nível de privacidade desejado
@@ -119,45 +119,47 @@ Este repositório demonstra a implementação prática e sua análise experiment
 
 ---
 
-📜 **Licença Recomendada**
+## 📜 **Licença Recomendada**
 A exigência é que **os autores sejam sempre mencionados.**
 A licença que melhor atende esse requisito é:
 
 ---
 
-👉 **Licença BSD 3-Clause**
+## 👉 **Licença BSD 3-Clause**
 Ela permite uso, modificação e redistribuição, desde que **o aviso de copyright seja mantido** — cumprindo exatamente sua exigência.
 
-**BSD 3-Clause License**
+**_BSD 3-Clause License_**
 
-Copyright (c) 2025, Gustavo Gobi Martinelli
-All rights reserved.
+_Copyright (c) 2025, Gustavo Gobi Martinelli & Rodolfo da Silva Villaça_
+_All rights reserved._
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+_Redistribution and use in source and binary forms, with or without_
+_modification, are permitted provided that the following conditions are met:_
 
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
-3. Neither the name of the authors nor the names of its contributors may be used
-   to endorse or promote products derived from this software without specific
-   prior written permission.
+_1. Redistributions of source code must retain the above copyright notice, this_
+   _list of conditions and the following disclaimer._
+_2. Redistributions in binary form must reproduce the above copyright notice,_
+   _this list of conditions and the following disclaimer in the documentation_
+   _and/or other materials provided with the distribution._
+_3. Neither the name of the authors nor the names of its contributors may be used_
+   _to endorse or promote products derived from this software without specific_
+   _prior written permission._
 
 ---
 
-📞 **Contato dos Autores**
+## 📞 **Contato dos Autores**
 
 **Gustavo Gobi Martinelli**
+
 Email: [gustavomartinelli@gmail.com](gustavomartinelli@gmail.com)
 
 **Prof. Rodolfo da Silva Villaça**
+
 Email: [rodolfo.villaca@inf.ufes.br](rodolfo.villaca@inf.ufes.br)
 
 ---
 
-📝 **Observação Final**
+## 📝 **Observação Final**
 
 Este README serve como documentação pública do experimento e dos resultados apresentados no artigo.
-Caso deseje contribuir, testar variações ou reportar issues, fique à vontade para abrir uma discussão no repositório.
+Caso deseje contribuir, testar variações ou reportar _issues_, fique à vontade para abrir uma discussão no repositório.
