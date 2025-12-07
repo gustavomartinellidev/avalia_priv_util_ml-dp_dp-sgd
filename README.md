@@ -12,7 +12,7 @@ O estudo investiga empiricamente o *trade-off* entre **privacidade diferencial**
 
 O notebook completo está disponível neste repositório no arquivo **`avalia_priv_acc_ml-dp_dp-sgd.ipynb`**, bem como no Google Colab por meio do link abaixo (somente leitura):
 
-👉 **[Link do Colab (preencher aqui)]()**
+👉 **[Link do Colab ([preencher aqui](https://colab.research.google.com/drive/1NwFBL9jUxME8EfLso901TJIOXqBykD9P?usp=sharing))]()**
 
 ---
 
@@ -33,12 +33,13 @@ As análises incluem curvas de *loss*, acurácia, evolução do ε, matrizes de 
 
 ---
 
-## **📂 Estrutura do Repositório**
-
+📂 **Estrutura do Repositório**
+```
 avalia_priv_acc_ml-dp_dp-sgd/
 │
 ├── README.md
-├── avalia_priv_acc_ml-dp_dp-sgd.ipynb # Notebook principal
+├── avalia_priv_acc_ml-dp_dp-sgd.ipynb   # Notebook principal
+```
 
 ---
 
